@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html,body{
+    height:100%;
+    width:100%;
+}
+body{
+    background-color: aquamarine;
+}
+#header{
+    height:50px;
+    width:100%;
+    background-color: azure;
+    border-style: groove;
+    border-color: black;
+
+}
+#footer{
+    height:50px;
+    width:100%;
+    background-color: azure;
+    border-style: groove;
+    border-color: black;
+    position: absolute;
+    bottom:0;
+}
