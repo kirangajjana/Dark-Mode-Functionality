@@ -24,4 +24,4 @@ This project allows users to switch between **dark mode** and **light mode** usi
    - When the light mode button (`button1`) is clicked, the background color resets to **white**.
 
 ## Demo
-you can find the demo [here]()
+you can find the demo [here](https://kirangajjana.github.io/Dark-Mode-Functionality/)
