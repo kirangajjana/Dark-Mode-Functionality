@@ -16,7 +16,13 @@ body{
     background-color: azure;
     border-style: groove;
     border-color: black;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
 
+}
+#header:hover{
+    background-color: rgb(229, 149, 149);
 }
 #footer{
     height:50px;
@@ -26,4 +32,72 @@ body{
     border-color: black;
     position: absolute;
     bottom:0;
+}
+#home{
+    height:20px;
+    width:70px;
+    background-color: rgb(127, 217, 255);
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+}
+#home:hover{
+    background-color: red;
+}
+#about{
+    height:20px;
+    width:70px;
+    background-color: rgb(127, 217, 255);
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+
+}
+#about:hover{
+    background-color: red;
+}
+#darkmode{
+    height:20px;
+    width:70px;
+    background-color: rgb(127, 217, 255);
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+
+}
+#darkmode:hover{
+    background-color: red;
+}
+#lightmode{
+    height:20px;
+    width:70px;
+    background-color: rgb(127, 217, 255);
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+
+}
+#lightmode:hover{
+    background-color: red;
+}
+#button{
+    background-color: rgb(127, 217, 255);
+    border-color:rgb(127, 217, 255) ;
+    border-radius: 10px;
+
+}
+#button:hover{
+    background-color: red;
+}
+#button1{
+    background-color: rgb(127, 217, 255);
+    border-color:rgb(127, 217, 255) ;
+    border-radius: 10px;
+}
+#button1:hover{
+    background-color: red;
 }
